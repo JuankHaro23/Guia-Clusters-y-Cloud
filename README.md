@@ -16,10 +16,10 @@ El contenido está basado en las prácticas y proyectos realizados durante mi fo
 * [**Alta Disponibilidad (HA) y Balanceo de Carga (LVS, HAProxy)**](./cluster-on-premise/5-HA-y-Balanceo.md)
 
 #### Parte 2: Computación en la Nube con AWS
-* [**Fundamentos de EC2: Instancias, Redes y Seguridad**](./aws-cloud/1-Fundamentos-EC2.md)
-* [**Clústeres HPC con AWS ParallelCluster**](./aws-cloud/2-HPC-con-ParallelCluster.md)
-* [**Análisis de Big Data con Hadoop y MapReduce**](./aws-cloud/3-BigData-con-Hadoop.md)
-* [**Análisis Interactivo con Amazon EMR, Hue y Hive**](./aws-cloud/4-Analisis-con-EMR.md)
+* [**Fundamentos de EC2: Instancias, Redes y Seguridad**](./aws-cloud/Fundamentos-EC2.md)
+* [**Clústeres HPC con AWS ParallelCluster**](./aws-cloud/HPC-con-ParallelCluster.md)
+* [**Análisis de Big Data con Hadoop y MapReduce**](./aws-cloud/BigData-con-Hadoop.md)
+* [**Análisis Interactivo con Amazon EMR, Hue y Hive**](./aws-cloud/Analisis-con-EMR.md)
 
 ---
 
